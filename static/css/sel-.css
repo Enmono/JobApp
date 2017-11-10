@@ -1,0 +1,39 @@
+.display{
+  padding: 1rem;
+  text-align: center;
+}
+button{
+  height: 2.6rem;
+  margin-top: .5rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 1px solid #666666;
+}
+button span{
+  padding: 1rem;
+}
+.button{
+  text-align:center ;
+}
+.reset{
+  float: left;
+  width:15.9rem;
+  text-align: center;
+  display: inline-block;
+  background: #f7f7f7;
+  padding: 1rem 0;
+  font-size: 1.2rem;
+}
+.confirm{
+  float: right;
+  width:16rem;
+  text-align: center;
+  display: inline-block;
+  padding: 1rem 0;
+  background: #9dd9ff;
+  border-left:1px solid #eee;
+  font-size: 1.2rem;
+}
+button.active{
+  background: #e3cb56;
+}
